@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexcb-2024
+- 👋 Hi, 
 - 👀 I’m interested in loads of stuff.
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on nothing at the moment
